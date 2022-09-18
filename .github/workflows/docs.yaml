@@ -5,14 +5,14 @@ on:
     branches:
       - 'main'
     paths:
-      - docs/**
+      - asciidocs/**
 
 jobs:
   build:
     name: Build & Publish 🚀
     runs-on: ubuntu-latest
     env:
-      INPUTPATH: docs
+      INPUTPATH: asciidocs
       OUTPUTPATH: dist
       SLIDES: true
       BRANCH: gh-pages
