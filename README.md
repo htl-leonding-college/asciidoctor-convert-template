@@ -73,3 +73,14 @@ You can configure the inut and output dir in the `config.sh` file.
 | isOptional   | true      | true       | true           |
 | defaultValue | input     | output     | true           |
 | type         | string    | string     | boolean        |
+
+
+## Config github repo
+
+![permissions-for-asciidoc.png](img%2Fpermissions-for-asciidoc.png)
+
+![permissions-for-asciidoc.png](img%2Fpermissions-for-asciidoc-2.png)
+
+
+
+
