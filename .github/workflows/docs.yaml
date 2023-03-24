@@ -1,5 +1,9 @@
 name: Docs
 
+permissions:
+  pages: write
+  contents: write
+
 on:
   push:
     branches:
